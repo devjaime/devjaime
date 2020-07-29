@@ -21,8 +21,8 @@
 - 🌱 I’m currently learning Backend Python & Flask.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/HsJhernandez)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhernandezsalgado/)](https://www.linkedin.com/in/jhernandezsalgado/)
+[![Twitter: imthepk](https://img.shields.io/badge/twitter-HsJhernandez-blue)](https://twitter.com/HsJhernandez)
+[![Linkedin: imthepk](https://img.shields.io/badge/linkedin-jhernandezsalgado-blue)](https://www.linkedin.com/in/jhernandezsalgado/)
 [![GitHub devjaime](https://img.shields.io/github/followers/devjaime?label=follow&style=social)](https://github.com/devjaime)
 [![website](https://img.shields.io/badge/Portfolio-website-yellow)]https://devjaime.github.io/)
 
