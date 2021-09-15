@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on [4Agile](https://www.4agile.cl/).
+- 🔭 I’m currently working on [Cornershop by Uber](https://cornershopapp.com/en/).
 - 🌱 I’m currently learning Backend Python & Flask.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
