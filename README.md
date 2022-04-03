@@ -17,8 +17,8 @@
 
 
 
-- 🔭 I’m currently working on [Cornershop by Uber](https://cornershopapp.com/en/).
-- 🌱 I’m currently learning Backend Python & Flask.
+- 🔭 I’m currently working on [Continuum](https://www.continuumhq.com/).
+- 🌱 I’m currently learning React, Node, & Spring Boot.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
 [![Twitter: imthepk](https://img.shields.io/badge/twitter-HsJhernandez-blue)](https://twitter.com/HsJhernandez)
