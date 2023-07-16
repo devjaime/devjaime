@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on [Continuum](https://www.continuumhq.com/).
+- 🔭 I’m currently working on [Falabella](https://www.falabella.com/falabella-cl).
 - 🌱 I’m currently learning React, Node, & Spring Boot.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
