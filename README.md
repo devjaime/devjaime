@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on [Falabella](https://www.falabella.com/falabella-cl).
+- 🔭 I’m currently working on [Falabella](https://www.falabella.com/).
 - 🌱 I’m currently learning NodeJS, Nestjs, ReactJS Cloud - AWS GCP.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
