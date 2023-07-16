@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on [Falabella](https://www.falabella.com/falabella-cl).
-- 🌱 I’m currently learning React, Node, & Spring Boot.
+- 🌱 I’m currently learning NodeJS, Nestjs, ReactJS Cloud - AWS GCP.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
 [![Twitter: imthepk](https://img.shields.io/badge/twitter-HsJhernandez-blue)](https://twitter.com/HsJhernandez)
