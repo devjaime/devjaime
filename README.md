@@ -1,5 +1,5 @@
 ## Hi [Jaime Hernandez!](https://jaimehz.com/) 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaime&theme=algolia&show_icons=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjaime&label=Views&color=blue&style=plastic" alt="devjaime" /> </p>
 
 <a href="https://twitter.com/HsJhernandez">
