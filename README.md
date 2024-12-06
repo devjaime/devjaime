@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [codeIA](https://www.codeIA.cl/).
 - 🌱 I’m currently learning Langchain - AI - Golang - Python - TypeScript - JavaScript -  Cloud - AWS GCP.
-- 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
+- 📫 How to reach me: [Contact mail - whatsapp](https://codeiaspa.github.io/contact/)
 
 [![Twitter: imthepk](https://img.shields.io/badge/twitter-HsJhernandez-blue)](https://twitter.com/HsJhernandez)
 [![Linkedin: imthepk](https://img.shields.io/badge/linkedin-jhernandezsalgado-blue)](https://www.linkedin.com/in/jhernandezsalgado/)
