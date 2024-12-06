@@ -17,8 +17,8 @@
 
 
 
-- 🔭 I’m currently working on [Falabella](https://www.falabella.com/).
-- 🌱 I’m currently learning NodeJS, Nestjs, ReactJS Cloud - AWS GCP.
+- 🔭 I’m currently working on [codeIA](https://www.codeIA.cl/).
+- 🌱 I’m currently learning Langchaing - AI - Golang - Python - TypeScript - JavaScript -  Cloud - AWS GCP.
 - 📫 How to reach me: [Twitter - @HsJhernandez](https://twitter.com/HsJhernandez)
 
 [![Twitter: imthepk](https://img.shields.io/badge/twitter-HsJhernandez-blue)](https://twitter.com/HsJhernandez)
