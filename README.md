@@ -16,7 +16,7 @@ You can find me as **"devjaime"** across platforms — I create open-source tool
 </p>
 
 ### 🔭 I’m currently working on:
-- [CodeIA.cl](https://www.codeia.cl) — AI-powered software solutions.
+- [vocari.cl](https://www.vocari.cl) — AI-powered software solutions.
 - Projects with LangChain, Golang, TypeScript, and GCP.
 
 ### 🌱 I’m currently learning:
