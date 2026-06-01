@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Jaime Hernández (aka devjaime)
 
-I'm a software engineer and AI developer from Chile 🇨🇱, founder & CTO at [vocari.cl](https://www.vocari.cl).  
+   
+   
+Senior Software Engineer & AI Developer | Python, Golang, TypeScript | LangChain, LlamaIndex, MCP | GCP | Chile 🇨🇱, founder & CTO at [vocari.cl](https://www.vocari.cl).  
 I specialize in building intelligent backend systems using **Python**, **Golang**, **JavaScript**, and **AI/ML tools** like **LangChain**, **LlamaIndex**, and **Ollama**.
 
 You can find me as **"devjaime"** across platforms — I create open-source tools, tutorials, and experimental projects with a strong focus on **cloud architecture**, **data pipelines**, and **real-world AI use cases**.
