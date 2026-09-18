@@ -156,11 +156,7 @@ My goal is not only to use AI tools, but to better understand **how these system
 
 ---
 
-## 📊 GitHub
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjaime\&theme=algolia\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjaime\&layout=compact\&theme=algolia\&hide_border=true)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devjaime&label=Profile%20views&style=flat-square" alt="devjaime profile views" />
